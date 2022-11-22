@@ -1,0 +1,3 @@
+OBJECT:
+objects in a javascript may be defined as an unordered collection of related data, of the primitive or reference type, in the form of key values these key can be variable or functions and are called properties and the methods respectively, in the context of an object.
+there are 6 types of object in js(object,date,array,string,number,boolean)
