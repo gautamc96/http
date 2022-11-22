@@ -9,3 +9,6 @@ DIFFERENCE BETWEEN THE HTTP1 & HTTP2.
 http1 is the updated version of hypertext transfer protocol the web application protocol that runs on the top of the internet' TCP/IP of the protocol,
 it provides fastest delivery of the web pages tha the original HTTp and reduces web traffic.
 HTTP2 enables full request and respond multiplexing.in practice, this is a connection made to a web server from the browser can be used to send multiple request and receive multiple responses.this gets rid of a lot of the additional time that it takes to load a new connection request.
+
+
+
